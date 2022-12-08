@@ -1,0 +1,8 @@
+tiktok.com
+v16-webapp.tiktok.com
+mon-va.byteoversea.com
+t.tiktok.com
+mcs-sg.tiktok.com
+mcs-sg.tiktokv.com
+p16-sign-sg.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
