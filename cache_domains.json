@@ -118,6 +118,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "tiktok",
+			"description": "CDN for tiktok updates",
+			"domain_files": ["tiktok.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
